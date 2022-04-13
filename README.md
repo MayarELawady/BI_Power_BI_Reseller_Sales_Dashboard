@@ -1,4 +1,4 @@
-# BI_Power_BI Interactive_Reseller_Sales_Dashboard   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI6T5NE6oM11k_UcSOw1cxw-UJ6yCNw-FVkBmsY1RAXYt2ZefXrJa3XrTVdKdiHghBeT0&usqp=CAU" title="Power Bi" alt="Power Bi" width="45" height="45"/>&nbsp;
+# BI_Power_BI Interactive_Reseller_Sales_Dashboard   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI6T5NE6oM11k_UcSOw1cxw-UJ6yCNw-FVkBmsY1RAXYt2ZefXrJa3XrTVdKdiHghBeT0&usqp=CAU" title="Power Bi" alt="Power Bi" width="30" height="30"/>&nbsp;
 
 - Working on a Resellers Sales dataset.
 
